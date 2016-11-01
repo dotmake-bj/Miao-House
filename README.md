@@ -15,4 +15,5 @@ _图片版拼装指南.pdf：喵房主体拼装步骤指南，多页实物拍摄
 ![alt tag](https://github.com/dotmake-bj/Miao-House/blob/master/%E5%9B%BE%E7%89%87%E7%89%88%E6%8B%BC%E8%A3%85%E6%8C%87%E5%8D%97.jpg)
 
 _简易图片版拼装指南.pdf：喵房主体拼装步骤指南，单页多图实物拍摄彩色图片；
+![alt tag](https://github.com/dotmake-bj/Miao-House/blob/master/%E7%AE%80%E6%98%93%E5%9B%BE%E7%89%87%E7%89%88%E6%8B%BC%E8%A3%85%E6%8C%87%E5%8D%97.jpg)
 
